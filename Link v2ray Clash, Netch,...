@@ -18,90 +18,85 @@ dns:
     ipv6: true
 
 proxies:
-  - {name: Free Fire - 30/01/2024, server: 103.82.24.247, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: dl.aw.freefiremobile.com, udp: true}
-  - {name: "| TEN | VIETTEL VPN TLS🇻🇳", server: 103.82.24.247, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: dl.aw.freefiremobile.com, udp: true}
-  - {name: "| TEN | VIETTEL VPN🇻🇳", server: 103.82.24.247, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.aw.freefiremobile.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.aw.freefiremobile.com}}, udp: true}
-  - {name: "| TEN | VIETTEL IDC TLS🇻🇳", server: 103.237.87.189, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: dl.aw.freefiremobile.com, udp: true}
-  - {name: "| TEN | VIETTEL IDC🇻🇳", server: 103.237.87.189, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.aw.freefiremobile.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.aw.freefiremobile.com}}, udp: true}
-  - {name: "| TEN | VIETTEL CMC TLS🇻🇳", server: 103.116.52.187, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: dl.aw.freefiremobile.com, udp: true}
-  - {name: "| TEN | VIETTEL CMC🇻🇳", server: 103.116.52.187, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.aw.freefiremobile.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.aw.freefiremobile.com}}, udp: true}
-  - {name: "| LQ30 | VIETTEL VPN TLS🇻🇳", server: 103.82.24.247, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: dl.aw.freefiremobile.com, udp: true}
-  - {name: "| LQ30 | VIETTEL VPN🇻🇳", server: 103.82.24.247, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.aw.freefiremobile.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.aw.freefiremobile.com}}, udp: true}
-  - {name: "| TEN | SINGAPORE [FF30] 🇸🇬", server: 128.199.91.152, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: dl.aw.freefiremobile.com, udp: true}
-  - {name: "| TEN | SINGAPORE 🇸🇬", server: 128.199.91.152, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: dl.aw.freefiremobile.com, udp: true}
-  - {name: "| TEN | SINGAPORE 🇸🇬 2", server: 128.199.91.152, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.aw.freefiremobile.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.aw.freefiremobile.com}}, udp: true}
-  - {name: "| TEN | SINGAPORE [FF30] 🇸🇬 2", server: 128.199.91.152, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.aw.freefiremobile.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.aw.freefiremobile.com}}, udp: true}
-  - {name: Tik Tok - 30/01/2024, server: 103.82.24.247, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: v9.tiktokcdn.com, udp: true}
-  - {name: "| TEN | VIETTEL VPN TLS🇻🇳 2", server: 103.82.24.247, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: v9.tiktokcdn.com, udp: true}
-  - {name: "| TEN | VIETTEL VPN🇻🇳 2", server: 103.82.24.247, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: v9.tiktokcdn.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: v9.tiktokcdn.com}}, udp: true}
-  - {name: "| TEN | VIETTEL IDC TLS🇻🇳 2", server: 103.237.87.189, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: v9.tiktokcdn.com, udp: true}
-  - {name: "| TEN | VIETTEL IDC🇻🇳 2", server: 103.237.87.189, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: v9.tiktokcdn.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: v9.tiktokcdn.com}}, udp: true}
-  - {name: "| TEN | VIETTEL CMC TLS🇻🇳 2", server: 103.116.52.187, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: v9.tiktokcdn.com, udp: true}
-  - {name: "| TEN | VIETTEL CMC🇻🇳 2", server: 103.116.52.187, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: v9.tiktokcdn.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: v9.tiktokcdn.com}}, udp: true}
-  - {name: "| LQ30 | VIETTEL VPN TLS🇻🇳 2", server: 103.82.24.247, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: v9.tiktokcdn.com, udp: true}
-  - {name: "| LQ30 | VIETTEL VPN🇻🇳 2", server: 103.82.24.247, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: v9.tiktokcdn.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: v9.tiktokcdn.com}}, udp: true}
-  - {name: "| TEN | SINGAPORE [FF30] 🇸🇬 3", server: 128.199.91.152, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: v9.tiktokcdn.com, udp: true}
-  - {name: "| TEN | SINGAPORE 🇸🇬 3", server: 128.199.91.152, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: v9.tiktokcdn.com, udp: true}
-  - {name: "| TEN | SINGAPORE 🇸🇬 4", server: 128.199.91.152, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: v9.tiktokcdn.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: v9.tiktokcdn.com}}, udp: true}
-  - {name: "| TEN | SINGAPORE [FF30] 🇸🇬 4", server: 128.199.91.152, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: v9.tiktokcdn.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: v9.tiktokcdn.com}}, udp: true}
-  - {name: Liên Quân - 30/01/2024, server: 103.82.24.247, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: dl.kgvn.garenanow.com, udp: true}
-  - {name: "| TEN | VIETTEL VPN TLS🇻🇳 3", server: 103.82.24.247, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: dl.kgvn.garenanow.com, udp: true}
-  - {name: "| TEN | VIETTEL VPN🇻🇳 3", server: 103.82.24.247, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.kgvn.garenanow.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: "| TEN | VIETTEL IDC TLS🇻🇳 3", server: 103.237.87.189, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: dl.kgvn.garenanow.com, udp: true}
-  - {name: "| TEN | VIETTEL IDC🇻🇳 3", server: 103.237.87.189, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.kgvn.garenanow.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: "| TEN | VIETTEL CMC TLS🇻🇳 3", server: 103.116.52.187, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: dl.kgvn.garenanow.com, udp: true}
-  - {name: "| TEN | VIETTEL CMC🇻🇳 3", server: 103.116.52.187, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.kgvn.garenanow.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: "| LQ30 | VIETTEL VPN TLS🇻🇳 3", server: 103.82.24.247, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: dl.kgvn.garenanow.com, udp: true}
-  - {name: "| LQ30 | VIETTEL VPN🇻🇳 3", server: 103.82.24.247, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.kgvn.garenanow.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: "| TEN | SINGAPORE [FF30] 🇸🇬 5", server: 128.199.91.152, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: dl.kgvn.garenanow.com, udp: true}
-  - {name: "| TEN | SINGAPORE 🇸🇬 5", server: 128.199.91.152, port: 443, type: trojan, password: fe1b7876-df77-49eb-bcad-1b832910a2b8, skip-cert-verify: true, sni: dl.kgvn.garenanow.com, udp: true}
-  - {name: "| TEN | SINGAPORE 🇸🇬 6", server: 128.199.91.152, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.kgvn.garenanow.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: "| TEN | SINGAPORE [FF30] 🇸🇬 6", server: 128.199.91.152, port: 80, type: vmess, uuid: fe1b7876-df77-49eb-bcad-1b832910a2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.kgvn.garenanow.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: Facebook - 02/02/2024, server: 103.154.63.19, port: 443, type: trojan, password: 2f1e2bfc-b9c4-4692-bf45-4980e15fdad2, skip-cert-verify: true, sni: cloudctrl.gcloudsdk.com, udp: true}
+  - {name: HyperUnlimited1, server: 103.154.63.19, port: 443, type: trojan, password: 2c98718f-7255-4af9-9774-4fff4bb71ee9, skip-cert-verify: true, sni: cloudctrl.gcloudsdk.com, udp: true}
+  - {name: HyperUnlimited2, server: 103.154.63.16, port: 80, type: vmess, uuid: 2c98718f-7255-4af9-9774-4fff4bb71ee9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cloudctrl.gcloudsdk.com, network: ws, ws-opts: {path: /, headers: {Host: cloudctrl.gcloudsdk.com}}, udp: true}
+  - {name: HyperUnlimited3, server: 103.169.35.165, port: 80, type: vmess, uuid: 0b1d7826-be6c-4ae0-96e4-39eec8de79b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cloudctrl.gcloudsdk.com, network: ws, ws-opts: {path: /dang5g.click, headers: {Host: cloudctrl.gcloudsdk.com}}, udp: true}
+  - {name: "| TEN | VIETTEL VPN TLS🇻🇳", server: 103.82.24.247, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: cloudctrl.gcloudsdk.com, udp: true}
+  - {name: "| TEN | VIETTEL VPN🇻🇳", server: 103.82.24.247, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cloudctrl.gcloudsdk.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: cloudctrl.gcloudsdk.com}}, udp: true}
+  - {name: "| TEN | VIETTEL IDC TLS🇻🇳", server: 103.237.87.189, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: cloudctrl.gcloudsdk.com, udp: true}
+  - {name: "| TEN | VIETTEL IDC🇻🇳", server: 103.237.87.189, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cloudctrl.gcloudsdk.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: cloudctrl.gcloudsdk.com}}, udp: true}
+  - {name: "| TEN | VIETTEL CMC TLS🇻🇳", server: 103.116.52.187, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: cloudctrl.gcloudsdk.com, udp: true}
+  - {name: "| TEN | VIETTEL CMC🇻🇳", server: 103.116.52.187, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cloudctrl.gcloudsdk.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: cloudctrl.gcloudsdk.com}}, udp: true}
+  - {name: "| LQ30 | VIETTEL VPN TLS🇻🇳", server: 103.82.24.247, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: cloudctrl.gcloudsdk.com, udp: true}
+  - {name: "| LQ30 | VIETTEL VPN🇻🇳", server: 103.82.24.247, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cloudctrl.gcloudsdk.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: cloudctrl.gcloudsdk.com}}, udp: true}
+  - {name: "| TEN | SINGAPORE [FF30] 🇸🇬", server: 128.199.91.152, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: cloudctrl.gcloudsdk.com, udp: true}
+  - {name: "| TEN | SINGAPORE 🇸🇬", server: 128.199.91.152, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: cloudctrl.gcloudsdk.com, udp: true}
+  - {name: "| TEN | SINGAPORE 🇸🇬 2", server: 128.199.91.152, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cloudctrl.gcloudsdk.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: cloudctrl.gcloudsdk.com}}, udp: true}
+  - {name: "| TEN | SINGAPORE [FF30] 🇸🇬 2", server: 128.199.91.152, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cloudctrl.gcloudsdk.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: cloudctrl.gcloudsdk.com}}, udp: true}
+  - {name: Free Fire - 02/02/2024, server: 103.154.63.19, port: 443, type: trojan, password: 2f1e2bfc-b9c4-4692-bf45-4980e15fdad2, skip-cert-verify: true, sni: dl.aw.freefiremobile.com, udp: true}
+  - {name: HyperUnlimited1 2, server: 103.154.63.19, port: 443, type: trojan, password: 2c98718f-7255-4af9-9774-4fff4bb71ee9, skip-cert-verify: true, sni: dl.aw.freefiremobile.com, udp: true}
+  - {name: HyperUnlimited2 2, server: 103.154.63.16, port: 80, type: vmess, uuid: 2c98718f-7255-4af9-9774-4fff4bb71ee9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.aw.freefiremobile.com, network: ws, ws-opts: {path: /, headers: {Host: dl.aw.freefiremobile.com}}, udp: true}
+  - {name: HyperUnlimited3 2, server: 103.169.35.165, port: 80, type: vmess, uuid: 0b1d7826-be6c-4ae0-96e4-39eec8de79b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.aw.freefiremobile.com, network: ws, ws-opts: {path: /dang5g.click, headers: {Host: dl.aw.freefiremobile.com}}, udp: true}
+  - {name: "| TEN | VIETTEL VPN TLS🇻🇳 2", server: 103.82.24.247, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: dl.aw.freefiremobile.com, udp: true}
+  - {name: "| TEN | VIETTEL VPN🇻🇳 2", server: 103.82.24.247, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.aw.freefiremobile.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.aw.freefiremobile.com}}, udp: true}
+  - {name: "| TEN | VIETTEL IDC TLS🇻🇳 2", server: 103.237.87.189, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: dl.aw.freefiremobile.com, udp: true}
+  - {name: "| TEN | VIETTEL IDC🇻🇳 2", server: 103.237.87.189, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.aw.freefiremobile.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.aw.freefiremobile.com}}, udp: true}
+  - {name: "| TEN | VIETTEL CMC TLS🇻🇳 2", server: 103.116.52.187, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: dl.aw.freefiremobile.com, udp: true}
+  - {name: "| TEN | VIETTEL CMC🇻🇳 2", server: 103.116.52.187, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.aw.freefiremobile.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.aw.freefiremobile.com}}, udp: true}
+  - {name: "| LQ30 | VIETTEL VPN TLS🇻🇳 2", server: 103.82.24.247, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: dl.aw.freefiremobile.com, udp: true}
+  - {name: "| LQ30 | VIETTEL VPN🇻🇳 2", server: 103.82.24.247, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.aw.freefiremobile.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.aw.freefiremobile.com}}, udp: true}
+  - {name: "| TEN | SINGAPORE [FF30] 🇸🇬 3", server: 128.199.91.152, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: dl.aw.freefiremobile.com, udp: true}
+  - {name: "| TEN | SINGAPORE 🇸🇬 3", server: 128.199.91.152, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: dl.aw.freefiremobile.com, udp: true}
+  - {name: "| TEN | SINGAPORE 🇸🇬 4", server: 128.199.91.152, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.aw.freefiremobile.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.aw.freefiremobile.com}}, udp: true}
+  - {name: "| TEN | SINGAPORE [FF30] 🇸🇬 4", server: 128.199.91.152, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.aw.freefiremobile.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.aw.freefiremobile.com}}, udp: true}
+  - {name: Liên Quân - 02/02/2024, server: 103.154.63.19, port: 443, type: trojan, password: 2f1e2bfc-b9c4-4692-bf45-4980e15fdad2, skip-cert-verify: true, sni: dl.kgvn.garenanow.com, udp: true}
+  - {name: HyperUnlimited1 3, server: 103.154.63.19, port: 443, type: trojan, password: 2c98718f-7255-4af9-9774-4fff4bb71ee9, skip-cert-verify: true, sni: dl.kgvn.garenanow.com, udp: true}
+  - {name: HyperUnlimited2 3, server: 103.154.63.16, port: 80, type: vmess, uuid: 2c98718f-7255-4af9-9774-4fff4bb71ee9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.kgvn.garenanow.com, network: ws, ws-opts: {path: /, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: HyperUnlimited3 3, server: 103.169.35.165, port: 80, type: vmess, uuid: 0b1d7826-be6c-4ae0-96e4-39eec8de79b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.kgvn.garenanow.com, network: ws, ws-opts: {path: /dang5g.click, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: "| TEN | VIETTEL VPN TLS🇻🇳 3", server: 103.82.24.247, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: dl.kgvn.garenanow.com, udp: true}
+  - {name: "| TEN | VIETTEL VPN🇻🇳 3", server: 103.82.24.247, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.kgvn.garenanow.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: "| TEN | VIETTEL IDC TLS🇻🇳 3", server: 103.237.87.189, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: dl.kgvn.garenanow.com, udp: true}
+  - {name: "| TEN | VIETTEL IDC🇻🇳 3", server: 103.237.87.189, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.kgvn.garenanow.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: "| TEN | VIETTEL CMC TLS🇻🇳 3", server: 103.116.52.187, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: dl.kgvn.garenanow.com, udp: true}
+  - {name: "| TEN | VIETTEL CMC🇻🇳 3", server: 103.116.52.187, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.kgvn.garenanow.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: "| LQ30 | VIETTEL VPN TLS🇻🇳 3", server: 103.82.24.247, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: dl.kgvn.garenanow.com, udp: true}
+  - {name: "| LQ30 | VIETTEL VPN🇻🇳 3", server: 103.82.24.247, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.kgvn.garenanow.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: "| TEN | SINGAPORE [FF30] 🇸🇬 5", server: 128.199.91.152, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: dl.kgvn.garenanow.com, udp: true}
+  - {name: "| TEN | SINGAPORE 🇸🇬 5", server: 128.199.91.152, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: dl.kgvn.garenanow.com, udp: true}
+  - {name: "| TEN | SINGAPORE 🇸🇬 6", server: 128.199.91.152, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.kgvn.garenanow.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: "| TEN | SINGAPORE [FF30] 🇸🇬 6", server: 128.199.91.152, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: dl.kgvn.garenanow.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: Tik Tok - 02/02/2024, server: 103.154.63.19, port: 443, type: trojan, password: 2f1e2bfc-b9c4-4692-bf45-4980e15fdad2, skip-cert-verify: true, sni: m.tiktok.com, udp: true}
+  - {name: HyperUnlimited1 4, server: 103.154.63.19, port: 443, type: trojan, password: 2c98718f-7255-4af9-9774-4fff4bb71ee9, skip-cert-verify: true, sni: m.tiktok.com, udp: true}
+  - {name: HyperUnlimited2 4, server: 103.154.63.16, port: 80, type: vmess, uuid: 2c98718f-7255-4af9-9774-4fff4bb71ee9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: m.tiktok.com, network: ws, ws-opts: {path: /, headers: {Host: m.tiktok.com}}, udp: true}
+  - {name: HyperUnlimited3 4, server: 103.169.35.165, port: 80, type: vmess, uuid: 0b1d7826-be6c-4ae0-96e4-39eec8de79b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: m.tiktok.com, network: ws, ws-opts: {path: /dang5g.click, headers: {Host: m.tiktok.com}}, udp: true}
+  - {name: "| TEN | VIETTEL VPN TLS🇻🇳 4", server: 103.82.24.247, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: m.tiktok.com, udp: true}
+  - {name: "| TEN | VIETTEL VPN🇻🇳 4", server: 103.82.24.247, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: m.tiktok.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: m.tiktok.com}}, udp: true}
+  - {name: "| TEN | VIETTEL IDC TLS🇻🇳 4", server: 103.237.87.189, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: m.tiktok.com, udp: true}
+  - {name: "| TEN | VIETTEL IDC🇻🇳 4", server: 103.237.87.189, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: m.tiktok.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: m.tiktok.com}}, udp: true}
+  - {name: "| TEN | VIETTEL CMC TLS🇻🇳 4", server: 103.116.52.187, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: m.tiktok.com, udp: true}
+  - {name: "| TEN | VIETTEL CMC🇻🇳 4", server: 103.116.52.187, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: m.tiktok.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: m.tiktok.com}}, udp: true}
+  - {name: "| LQ30 | VIETTEL VPN TLS🇻🇳 4", server: 103.82.24.247, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: m.tiktok.com, udp: true}
+  - {name: "| LQ30 | VIETTEL VPN🇻🇳 4", server: 103.82.24.247, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: m.tiktok.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: m.tiktok.com}}, udp: true}
+  - {name: "| TEN | SINGAPORE [FF30] 🇸🇬 7", server: 128.199.91.152, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: m.tiktok.com, udp: true}
+  - {name: "| TEN | SINGAPORE 🇸🇬 7", server: 128.199.91.152, port: 443, type: trojan, password: 7a736983-d24d-4f38-966b-df0ee4472e5c, skip-cert-verify: true, sni: m.tiktok.com, udp: true}
+  - {name: "| TEN | SINGAPORE 🇸🇬 8", server: 128.199.91.152, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: m.tiktok.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: m.tiktok.com}}, udp: true}
+  - {name: "| TEN | SINGAPORE [FF30] 🇸🇬 8", server: 128.199.91.152, port: 80, type: vmess, uuid: 7a736983-d24d-4f38-966b-df0ee4472e5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: m.tiktok.com, network: ws, ws-opts: {path: /tenvpndata.io.vn, headers: {Host: m.tiktok.com}}, udp: true}
 proxy-groups:
   - name: Chọn gói nền
     type: select
     proxies:
-       - "Free Fire"
-       - "Liên Quân"
-       - "Tik Tok"
+      - "Free Fire"
+      - "Liên Quân"
+      - "Tik Tok"
+      - "Facebook"
   - name: Free Fire
     type: select
     proxies:
-      - Free Fire - 30/01/2024
-      - "| TEN | VIETTEL VPN TLS🇻🇳"
-      - "| TEN | VIETTEL VPN🇻🇳"
-      - "| TEN | VIETTEL IDC TLS🇻🇳"
-      - "| TEN | VIETTEL IDC🇻🇳"
-      - "| TEN | VIETTEL CMC TLS🇻🇳"
-      - "| TEN | VIETTEL CMC🇻🇳"
-      - "| LQ30 | VIETTEL VPN TLS🇻🇳"
-      - "| LQ30 | VIETTEL VPN🇻🇳"
-      - "| TEN | SINGAPORE [FF30] 🇸🇬"
-      - "| TEN | SINGAPORE 🇸🇬"
-      - "| TEN | SINGAPORE 🇸🇬 2"
-      - "| TEN | SINGAPORE [FF30] 🇸🇬 2"
-      - DIRECT
-  - name: Liên Quân
-    type: select
-    proxies:
-      - Liên Quân - 30/01/2024
-      - "| TEN | VIETTEL VPN TLS🇻🇳 3"
-      - "| TEN | VIETTEL VPN🇻🇳 3"
-      - "| TEN | VIETTEL IDC TLS🇻🇳 3"
-      - "| TEN | VIETTEL IDC🇻🇳 3"
-      - "| TEN | VIETTEL CMC TLS🇻🇳 3"
-      - "| TEN | VIETTEL CMC🇻🇳 3"
-      - "| LQ30 | VIETTEL VPN TLS🇻🇳 3"
-      - "| LQ30 | VIETTEL VPN🇻🇳 3"
-      - "| TEN | SINGAPORE [FF30] 🇸🇬 5"
-      - "| TEN | SINGAPORE 🇸🇬 5"
-      - "| TEN | SINGAPORE 🇸🇬 6"
-      - "| TEN | SINGAPORE [FF30] 🇸🇬 6"
-      - DIRECT
-  - name: Tik Tok
-    type: select
-    proxies:
-      - Tik Tok - 30/01/2024
+      - Free Fire - 02/02/2024
+      - HyperUnlimited1 2
+      - HyperUnlimited2 2
+      - HyperUnlimited3 2
       - "| TEN | VIETTEL VPN TLS🇻🇳 2"
       - "| TEN | VIETTEL VPN🇻🇳 2"
       - "| TEN | VIETTEL IDC TLS🇻🇳 2"
@@ -114,7 +109,63 @@ proxy-groups:
       - "| TEN | SINGAPORE 🇸🇬 3"
       - "| TEN | SINGAPORE 🇸🇬 4"
       - "| TEN | SINGAPORE [FF30] 🇸🇬 4"
-      - DIRECT
+  - name: Liên Quân
+    type: select
+    proxies:
+      - Liên Quân - 02/02/2024
+      - HyperUnlimited1 3
+      - HyperUnlimited2 3
+      - HyperUnlimited3 3
+      - "| TEN | VIETTEL VPN TLS🇻🇳 3"
+      - "| TEN | VIETTEL VPN🇻🇳 3"
+      - "| TEN | VIETTEL IDC TLS🇻🇳 3"
+      - "| TEN | VIETTEL IDC🇻🇳 3"
+      - "| TEN | VIETTEL CMC TLS🇻🇳 3"
+      - "| TEN | VIETTEL CMC🇻🇳 3"
+      - "| LQ30 | VIETTEL VPN TLS🇻🇳 3"
+      - "| LQ30 | VIETTEL VPN🇻🇳 3"
+      - "| TEN | SINGAPORE [FF30] 🇸🇬 5"
+      - "| TEN | SINGAPORE 🇸🇬 5"
+      - "| TEN | SINGAPORE 🇸🇬 6"
+      - "| TEN | SINGAPORE [FF30] 🇸🇬 6"
+  - name: Tik Tok
+    type: select
+    proxies:
+      - Tik Tok - 02/02/2024
+      - HyperUnlimited1 4
+      - HyperUnlimited2 4
+      - HyperUnlimited3 4
+      - "| TEN | VIETTEL VPN TLS🇻🇳 4"
+      - "| TEN | VIETTEL VPN🇻🇳 4"
+      - "| TEN | VIETTEL IDC TLS🇻🇳 4"
+      - "| TEN | VIETTEL IDC🇻🇳 4"
+      - "| TEN | VIETTEL CMC TLS🇻🇳 4"
+      - "| TEN | VIETTEL CMC🇻🇳 4"
+      - "| LQ30 | VIETTEL VPN TLS🇻🇳 4"
+      - "| LQ30 | VIETTEL VPN🇻🇳 4"
+      - "| TEN | SINGAPORE [FF30] 🇸🇬 7"
+      - "| TEN | SINGAPORE 🇸🇬 7"
+      - "| TEN | SINGAPORE 🇸🇬 8"
+      - "| TEN | SINGAPORE [FF30] 🇸🇬 8"
+  - name: Facebook
+    type: select
+    proxies:
+      - Facebook - 02/02/2024
+      - HyperUnlimited1
+      - HyperUnlimited2
+      - HyperUnlimited3
+      - "| TEN | VIETTEL VPN TLS🇻🇳"
+      - "| TEN | VIETTEL VPN🇻🇳"
+      - "| TEN | VIETTEL IDC TLS🇻🇳"
+      - "| TEN | VIETTEL IDC🇻🇳"
+      - "| TEN | VIETTEL CMC TLS🇻🇳"
+      - "| TEN | VIETTEL CMC🇻🇳"
+      - "| LQ30 | VIETTEL VPN TLS🇻🇳"
+      - "| LQ30 | VIETTEL VPN🇻🇳"
+      - "| TEN | SINGAPORE [FF30] 🇸🇬"
+      - "| TEN | SINGAPORE 🇸🇬"
+      - "| TEN | SINGAPORE 🇸🇬 2"
+      - "| TEN | SINGAPORE [FF30] 🇸🇬 2"
 rules:
     - 'DOMAIN-SUFFIX,local,DIRECT'
     - 'IP-CIDR,127.0.0.0/8,DIRECT'
@@ -128,3 +179,4 @@ rules:
     - 'MATCH,Free Fire'
     - 'MATCH,Liên Quân'
     - 'MATCH,Tik Tok'
+    - 'MATCH,Facebook'

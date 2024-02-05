@@ -1,6 +1,6 @@
 Code Termux: 
 termux-setup-storage && pkg install php && apt upgrade && pkg install git && git clone https://github.com/thuanht567/vss.git && clear && cd vss && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.zshrc && source $HOME/.zshrc && exit
-Link
+Link tải Tun2Tap: https://play.google.com/store/apps/details?id=com.newtoolsworks.tun2tap&hl=vi
 Link tải HyperSocksDroid: https://drive.google.com/file/d/17YW17ak3FYUOxg1Z9BjeOYTj7cV1BLee/view?usp=sharing
 Link tải termux: https://play.google.com/store/apps/details?id=com.termux&hl=en_US&pli=1
 Hoặc: https://drive.google.com/file/d/1d3LSKrS4mtQIe5q3hThh96nTQvsQ3V7L/view?usp=drivesdk

@@ -1,5 +1,5 @@
 Code Termux: 
-Bảo trì fix lỗi
+termux-setup-storage && pkg install php && apt upgrade && pkg install git && git clone https://github.com/caotu2k5/vnw2.git && clear && cd vnw2 && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/vnw2"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/vnw2"' >> $HOME/.zshrc && source $HOME/.zshrc && exit
 Link tải Tun2Tap: https://play.google.com/store/apps/details?id=com.newtoolsworks.tun2tap&hl=vi
 Link tải HyperSocksDroid: https://drive.google.com/file/d/17YW17ak3FYUOxg1Z9BjeOYTj7cV1BLee/view?usp=sharing
 Link tải termux: https://play.google.com/store/apps/details?id=com.termux&hl=en_US&pli=1

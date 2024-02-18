@@ -5,4 +5,22 @@ Bước 3: chờ cho nó tải, nếu nó đứng ở chỗ nào thì ấn y ch�
 Bước 4: Tải app Hyper socks droid hoặc tun2tap, tải xong ae mở app đó lên
     + Đối với app Hyper socks droid: ae mở nó lên, chỉ cần bật 4g, ấn kết nối là đc
     + Đối với tun2tap: ae mở nó lên
-       ++ Tại dòng
+       ++ Tại dòng socks v5 proxy format host:port thì ae nhập 127.0.0.1:7300
+       ++ Tiếp theo ae ấn vào dấu 3 chấm, chọn custom options/routes
+       ++ Xong ae bật enable lazyconnect lên, với bật enable exclude lên
+       ++ Về phần bypass VPN thì ae kéo xuống, tìm app termux và bật lên cho mình
+       ++ Xong ae trở về, ấn connect để kết nối nha.
+Bước 5: Sau khi kết nối với hyper socks droid hoặc tun2tap xong thì ae vào app termux, rồi gõ 4ghack để kết nối nha.
+- Đối với code termux bản dự phòng, nó cũng tương tự bản chính, chỉ khác mỗi cái lệnh nha: 
+Bước 1: Tải termux về và cài đặt, sau khi tải xong, mở nó lên.
+Bước 2: Các bạn copy code termux bản dự phòng, link code mình để dưới phần mô tả video hoặc trong bio v2ray 365 của mình, xong rồi các bạn vào lại termux, dán nó vào rồi ấn enter nha
+Bước 3: chờ cho nó tải, nếu nó đứng ở chỗ nào thì ấn y chỗ đó nha, đợi nó setup xong nó tự động thoát app.
+Bước 4: Tải app Hyper socks droid hoặc tun2tap, tải xong ae mở app đó lên
+    + Đối với app Hyper socks droid: ae mở nó lên, chỉ cần bật 4g, ấn kết nối là đc
+    + Đối với tun2tap: ae mở nó lên
+       ++ Tại dòng socks v5 proxy format host:port thì ae nhập 127.0.0.1:7300
+       ++ Tiếp theo ae ấn vào dấu 3 chấm, chọn custom options/routes
+       ++ Xong ae bật enable lazyconnect lên, với bật enable exclude lên
+       ++ Về phần bypass VPN thì ae kéo xuống, tìm app termux và bật lên cho mình
+       ++ Xong ae trở về, ấn connect để kết nối nha.
+Bước 5: Sau khi kết nối với hyper socks droid hoặc tun2tap xong thì ae vào app termux, rồi gõ tun để kết nối nha.

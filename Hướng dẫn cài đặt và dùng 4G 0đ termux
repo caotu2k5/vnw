@@ -12,7 +12,13 @@ Bước 4: Tải app Hyper socks droid hoặc tun2tap, tải xong ae mở app đ
        ++ Xong ae bật enable lazyconnect lên, với bật enable exclude lên
        ++ Về phần bypass VPN thì ae kéo xuống, tìm app termux và bật lên cho mình
        ++ Xong ae trở về, ấn connect để kết nối nha.
-Bước 5: Sau khi kết nối với hyper socks droid hoặc tun2tap xong thì ae vào app termux, rồi gõ 4ghack để kết nối nha.
+     + Đối với Nekobox:
+       ++ Ae tải file config, link file config mình để dưới mô tả video.
+       ++ Ae tải nekobox trên CH play, xong mở nó lên, mới tải lần đầu nó hiện lên 1 thông báo thì ấn yes nha.
+       ++ Ae ấn vào hình dấu cộng, chọn import from file nha, ròii ae nhập file config ae mới tải nha.
+       ++ Xong ae ấn vào dấu 3 gạch, ròii ấn settings, xong ae ấn vào apps VPN Mode, ròii ae tìm app termux và bật lên nha.
+       ++ Xong ae quay lại giao diện chính của app, ae bật 4g lên, ròii chọn cái config ae vừa nhập, xong ae ấn vào hình bên dưới để kết nốii nha.
+Bước 5: Sau khi kết nối với hyper socks droid hoặc tun2tap hoặc nekobox xong thì ae vào app termux, rồi gõ 4ghack để kết nối nha.
 - Đối với code termux bản dự phòng, nó cũng tương tự bản chính, chỉ khác mỗi cái lệnh nha: 
 Bước 1: Tải termux về và cài đặt, sau khi tải xong, mở nó lên.
 Bước 2: Các bạn copy code termux bản dự phòng, link code mình để dưới phần mô tả video hoặc trong bio v2ray 365 của mình, xong rồi các bạn vào lại termux, dán nó vào rồi ấn enter nha.
@@ -27,7 +33,13 @@ Bước 4: Tải app Hyper socks droid hoặc tun2tap, tải xong ae mở app đ
        ++ Xong ae bật enable lazyconnect lên, với bật enable exclude lên
        ++ Về phần bypass VPN thì ae kéo xuống, tìm app termux và bật lên cho mình
        ++ Xong ae trở về, ấn connect để kết nối nha.
-Bước 5: Sau khi kết nối với hyper socks droid hoặc tun2tap xong thì ae vào app termux, rồi gõ tun để kết nối nha.
+    + Đối với Nekobox:
+       ++ Ae tải file config, link file config mình để dưới mô tả video.
+       ++ Ae tải nekobox trên CH play, xong mở nó lên, mới tải lần đầu nó hiện lên 1 thông báo thì ấn yes nha.
+       ++ Ae ấn vào hình dấu cộng, chọn import from file nha, ròii ae nhập file config ae mới tải nha.
+       ++ Xong ae ấn vào dấu 3 gạch, ròii ấn settings, xong ae ấn vào apps VPN Mode, ròii ae tìm app termux và bật lên nha.
+       ++ Xong ae quay lại giao diện chính của app, ae bật 4g lên, ròii chọn cái config ae vừa nhập, xong ae ấn vào hình bên dưới để kết nốii nha.
+Bước 5: Sau khi kết nối với hyper socks droid hoặc tun2tap hoặc nekobox xong thì ae vào app termux, rồi gõ tun để kết nối nha.
 
 
 Chúc các bạn thành công.

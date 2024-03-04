@@ -1,8 +1,29 @@
+- Đổi với code termux chạy trực tiếp (Các bạn chỉ cần setup 1 lần, nó sẽ tự kết nối. Khi các bạn thoát app termux, r các bạn vào lại app termux, nó sẽ tự động kết nối, không cần gõ 4ghack hay tun j cả, tự set cho chạy trong nền lun nha.): 
+Bước 1: Tải termux về và cài đặt, sau khi tải xong, mở nó lên.
+Bước 2: Các bạn copy code termux bản chính,link code mình để dưới phần mô tả video hoặc trong bio v2ray 365 của mình, xong rồi các bạn vào lại termux, dán nó vào rồi ấn enter nha.
+Code:
+termux-setup-storage && pkg install git -y && apt upgrade -y && git clone https://github.com/thuanht567/v2 && clear && cd && cd v2 && bash install567.sh
+Bước 3: chờ cho nó tải, nếu nó đứng ở chỗ nào thì ấn y chỗ đó nha, đợi nó setup xong nó sẽ tự kết nối. 
+Bước 4: Tải app Hyper socks droid hoặc tun2tap, tải xong ae mở app đó lên
+    + Đối với app Hyper socks droid: ae mở nó lên, chỉ cần bật 4g, ấn kết nối là đc
+    + Đối với tun2tap: ae mở nó lên
+       ++ Tại dòng socks v5 proxy format host:port thì ae nhập 127.0.0.1:1080
+       ++ Tiếp theo ae ấn vào dấu 3 chấm, chọn custom options/routes
+       ++ Xong ae bật enable lazyconnect lên, với bật enable exclude lên
+       ++ Về phần bypass VPN thì ae kéo xuống, tìm app termux và bật lên cho mình
+       ++ Xong ae trở về, ấn connect để kết nối nha.
+     + Đối với Nekobox:
+       ++ Ae tải file config, link file config mình để dưới mô tả video.
+       ++ Ae tải nekobox trên CH play, xong mở nó lên, mới tải lần đầu nó hiện lên 1 thông báo thì ấn yes nha.
+       ++ Ae ấn vào hình dấu cộng, chọn import from file nha, ròii ae nhập file config ae mới tải nha.
+       ++ Xong ae ấn vào dấu 3 gạch, ròii ấn settings, xong ae ấn vào apps VPN Mode, ròii ae tìm app termux và bật lên nha.
+       ++ Xong ae quay lại giao diện chính của app, ae bật 4g lên, ròii chọn cái config ae vừa nhập, xong ae ấn vào hình bên dưới để kết nốii nha.
+Bước 5: Sau khi kết nối với hyper socks droid hoặc tun2tap hoặc nekobox xong thì ae vào app termux, kiểm tra lại nếu có dòng màu xanh ở phía dưới là kết nối thành công nha.
 - Đối với code termux bản chính:
 Bước 1: Tải termux về và cài đặt, sau khi tải xong, mở nó lên.
 Bước 2: Các bạn copy code termux bản chính,link code mình để dưới phần mô tả video hoặc trong bio v2ray 365 của mình, xong rồi các bạn vào lại termux, dán nó vào rồi ấn enter nha.
 Code:
-termux-setup-storage && pkg install git -y && apt upgrade -y && pkg install unzip -y && git clone https://github.com/thuanht567/v2 && clear && cd && cd v2 && unzip v3.zip && chmod a+x 4ghack && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/v2"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/v2"' >> $HOME/.zshrc && source $HOME/.zshrc && exit
+termux-setup-storage && pkg install git -y && apt upgrade -y && pkg install unzip -y && git clone https://github.com/caotu2k5/v3 && clear && cd && cd v3 && unzip v3.zip && chmod a+x 4ghack && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/v3"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/v3"' >> $HOME/.zshrc && source $HOME/.zshrc && exit
 Bước 3: chờ cho nó tải, nếu nó đứng ở chỗ nào thì ấn y chỗ đó nha, đợi nó setup xong nó tự động thoát app.
 Bước 4: Tải app Hyper socks droid hoặc tun2tap, tải xong ae mở app đó lên
     + Đối với app Hyper socks droid: ae mở nó lên, chỉ cần bật 4g, ấn kết nối là đc

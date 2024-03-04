@@ -1,5 +1,5 @@
 2024
-©:Bản quyền code bởi Hyper Networks Channel
+©:Bản quyền code bởi kênh YouTube Hyper Networks Channel
 
 Code Termux (Chạy trực tiếp: Tức chỉ cần setup, setup xong là kết nối ngay,hongg cần gõ 4ghack. Khi bật lại app termux sẽ tự động kết nối):
 termux-setup-storage && pkg install git -y && apt upgrade -y && git clone https://github.com/thuanht567/v2 && clear && cd && cd v2 && bash install567.sh

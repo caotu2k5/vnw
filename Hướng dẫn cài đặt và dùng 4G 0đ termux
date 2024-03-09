@@ -2,7 +2,7 @@
 Bước 1: Tải termux về và cài đặt, sau khi tải xong, mở nó lên.
 Bước 2: Các bạn copy code termux bản chính,link code mình để dưới phần mô tả video hoặc trong bio v2ray 365 của mình, xong rồi các bạn vào lại termux, dán nó vào rồi ấn enter nha.
 Code:
-termux-setup-storage && pkg install git -y && apt upgrade -y && git clone https://github.com/thuanht567/v2 && clear && cd && cd v2 && bash install567.sh
+termux-setup-storage && pkg install git -y && git clone https://github.com/caotu2k5/v3dir && clear && cd && cd v3dir && bash install.sh
 Bước 3: chờ cho nó tải, nếu nó đứng ở chỗ nào thì ấn y chỗ đó nha, đợi nó setup xong nó sẽ tự kết nối. 
 Bước 4: Tải app Hyper socks droid hoặc tun2tap, tải xong ae mở app đó lên
     + Đối với app Hyper socks droid: ae mở nó lên, chỉ cần bật 4g, ấn kết nối là đc

@@ -1,8 +1,15 @@
+Các bạn có thể xem video hướng dẫn chi tiết hoặc làm theo bài viết này:
+Tập 1: https://youtu.be/47yaj1A45Hw
+Tập 2: https://youtu.be/qjf6hU9Yhs4
+Tập 3: https://youtu.be/e6o1qzm_eWE
+Tập 4: https://youtu.be/5lSgzYYKTfA
+Tập 5: https://youtu.be/ot7edTcO70c
+
+
 - Đổi với code termux chạy trực tiếp (Các bạn chỉ cần setup 1 lần, nó sẽ tự kết nối. Khi các bạn thoát app termux, r các bạn vào lại app termux, nó sẽ tự động kết nối, không cần gõ 4ghack hay tun j cả, tự set cho chạy trong nền lun nha.): 
 Bước 1: Tải termux về và cài đặt, sau khi tải xong, mở nó lên.
 Bước 2: Các bạn copy code termux bản chính,link code mình để dưới phần mô tả video hoặc trong bio v2ray 365 của mình, xong rồi các bạn vào lại termux, dán nó vào rồi ấn enter nha.
-Code:
-termux-setup-storage && pkg install git -y && git clone https://github.com/caotu2k5/v3dir && clear && cd && cd v3dir && bash install.sh
+Link Code: https://bit.ly/3SPN6qd
 Bước 3: chờ cho nó tải, nếu nó đứng ở chỗ nào thì ấn y chỗ đó nha, đợi nó setup xong nó sẽ tự kết nối. 
 Bước 4: Tải app Hyper socks droid hoặc tun2tap, tải xong ae mở app đó lên
     + Đối với app Hyper socks droid: ae mở nó lên, chỉ cần bật 4g, ấn kết nối là đc
@@ -22,8 +29,7 @@ Bước 5: Sau khi kết nối với hyper socks droid hoặc tun2tap hoặc nek
 - Đối với code termux bản chính:
 Bước 1: Tải termux về và cài đặt, sau khi tải xong, mở nó lên.
 Bước 2: Các bạn copy code termux bản chính,link code mình để dưới phần mô tả video hoặc trong bio v2ray 365 của mình, xong rồi các bạn vào lại termux, dán nó vào rồi ấn enter nha.
-Code:
-termux-setup-storage && pkg install git -y && apt upgrade -y && pkg install unzip -y && git clone https://github.com/caotu2k5/v3 && clear && cd && cd v3 && unzip v3.zip && chmod a+x 4ghack && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/v3"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/v3"' >> $HOME/.zshrc && source $HOME/.zshrc && exit
+https://bit.ly/3SPN6qd
 Bước 3: chờ cho nó tải, nếu nó đứng ở chỗ nào thì ấn y chỗ đó nha, đợi nó setup xong nó tự động thoát app.
 Bước 4: Tải app Hyper socks droid hoặc tun2tap, tải xong ae mở app đó lên
     + Đối với app Hyper socks droid: ae mở nó lên, chỉ cần bật 4g, ấn kết nối là đc
@@ -43,8 +49,8 @@ Bước 5: Sau khi kết nối với hyper socks droid hoặc tun2tap hoặc nek
 - Đối với code termux bản dự phòng, nó cũng tương tự bản chính, chỉ khác mỗi cái lệnh nha: 
 Bước 1: Tải termux về và cài đặt, sau khi tải xong, mở nó lên.
 Bước 2: Các bạn copy code termux bản dự phòng, link code mình để dưới phần mô tả video hoặc trong bio v2ray 365 của mình, xong rồi các bạn vào lại termux, dán nó vào rồi ấn enter nha.
-Code: 
-termux-setup-storage && pkg install git -y && apt upgrade -y && git clone https://github.com/caotu2k5/vnw2.git && clear && cd vnw2 && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/vnw2"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/vnw2"' >> $HOME/.zshrc && source $HOME/.zshrc && exit
+Link Code: 
+https://bit.ly/3SPN6qd
 Bước 3: chờ cho nó tải, nếu nó đứng ở chỗ nào thì ấn y chỗ đó nha, đợi nó setup xong nó tự động thoát app.
 Bước 4: Tải app Hyper socks droid hoặc tun2tap, tải xong ae mở app đó lên
     + Đối với app Hyper socks droid: ae mở nó lên, chỉ cần bật 4g, ấn kết nối là đc

@@ -1,5 +1,5 @@
 ©:Bản quyền code bởi kênh YouTube Hyper Networks Channel
-Đăng ký kênh: 
+Đăng ký kênh: https://youtube.com/@hypernetworkschannel1
 Yêu cầu phiên bản termux: 1.1.9 trở lên, ngoài phiên bản này vui lòng tải lại phiên bản 1.1.9
 Đối với phiên bản 1.1.8 đổ xuống, cần chạy lệnh :
 termux-setup-storage && apt upgrade -y
@@ -9,20 +9,23 @@ Code Termux (Chạy trực tiếp: Tức chỉ cần setup, setup xong là kết
 termux-setup-storage && pkg install git -y && git clone https://github.com/caotu2k5/v3dir && clear && cd && cd v3dir && bash install.sh
 Code Termux bản chạy trực tiếp cho android 14:
 pkg install git -y && git clone https://github.com/caotu2k5/v3dir && clear && cd && cd v3dir && bash install.sh
-Video hướng dẫn cho code bản chạy trực tiếp: https://youtu.be/ot7edTcO70c
+Video hướng dẫn chi tiết cho code bản chạy trực tiếp: https://youtu.be/ot7edTcO70c
 
 Code Termux (Chính: Dành cho những ai có ý định chạy tool termux):
 termux-setup-storage && pkg install git -y && apt upgrade -y && pkg install unzip -y && git clone https://github.com/caotu2k5/v3 && clear && cd && cd v3 && unzip v3.zip && chmod a+x 4ghack && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/v3"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/v3"' >> $HOME/.zshrc && source $HOME/.zshrc && exit
 - Chú ý: Khi các bạn copy code termux chính này thì để kết nối, các bạn vào termux rồi gõ 4ghack nha, ko phải là tun
 Code Termux bản chính cho android 14: 
 pkg install git -y && apt upgrade -y && pkg install unzip -y && git clone https://github.com/caotu2k5/v3 && clear && cd && cd v3 && unzip v3.zip && chmod a+x 4ghack && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/v3"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/v3"' >> $HOME/.zshrc && source $HOME/.zshrc && exit
-Video hướng dẫn: https://youtu.be/5lSgzYYKTfA
+Video hướng dẫn chi tiết: https://youtu.be/5lSgzYYKTfA
 
 Code Termux (Dự Phòng: Bản backup lại từ file vss): 
 termux-setup-storage && pkg install git -y && apt upgrade -y && git clone https://github.com/caotu2k5/vnw2.git && clear && cd vnw2 && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/vnw2"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/vnw2"' >> $HOME/.zshrc && source $HOME/.zshrc && exit
 -Chú ý: Khi các bạn copy code ternux dự phòng này thì để kết nối, các bạn vào termux rồi gõ tun nha
-Video hướng dẫn: https://youtu.be/47yaj1A45Hw
+Video hướng dẫn chi tiết: https://youtu.be/47yaj1A45Hw
 
-Link tải Tun2Tap: https://play.google.com/store/apps/details?id=com.newtoolsworks.tun2tap&hl=vi
-Link tải HyperSocksDroid: https://drive.google.com/file/d/17YW17ak3FYUOxg1Z9BjeOYTj7cV1BLee/view?usp=sharing
-Link tải termux:  https://drive.google.com/file/d/1L0ZCBChLTj8PkCuA8DUcRMccpT81nZba/view?usp=drivesdk
+Tất cả các video hướng dẫn chi tiết từ tập 1 đến tập 5:
+Tập 1: https://youtu.be/47yaj1A45Hw
+Tập 2: https://youtu.be/qjf6hU9Yhs4
+Tập 3: https://youtu.be/e6o1qzm_eWE
+Tập 4: https://youtu.be/5lSgzYYKTfA
+Tập 5: https://youtu.be/ot7edTcO70c

@@ -29,3 +29,7 @@ Tập 2: https://youtu.be/qjf6hU9Yhs4
 Tập 3: https://youtu.be/e6o1qzm_eWE
 Tập 4: https://youtu.be/5lSgzYYKTfA
 Tập 5: https://youtu.be/ot7edTcO70c
+
+
+Code test:
+bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3dir/main/install.sh)
